@@ -1,11 +1,11 @@
 # lokka-transport-http-auth
 
 HTTP Auth Transport Layer for [Lokka](https://github.com/kadirahq/lokka)
-(Works only of the server);
+(Works only on the server);
 
 ---
 
-This is an extended version of [lokka-transport-http](https://github.com/kadirahq/lokka-transport-http) with the basic auth support.
+This is an extended version of [lokka-transport-http](https://github.com/kadirahq/lokka-transport-http) with the basic-auth support.
 
 ## Basic Usage
 
@@ -33,4 +33,3 @@ transport.send(`
     console.log(JSON.stringify(response, null, 2));
 });
 ```
-
