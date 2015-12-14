@@ -1,6 +1,6 @@
 {
   "name": "lokka-transport-http-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTTP Transport for Lokka with Basic Auth",
   "repository": {
     "type": "git",
